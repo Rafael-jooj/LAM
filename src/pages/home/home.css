@@ -1,0 +1,14 @@
+.capa{
+    height: 100vh;
+    background-image: url("../../../public/images/equipe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.95;
+}
+.equipe{
+    margin-top: 30px;
+    padding-top: 10px;
+    background-color: #212529;
+    height: 400px;
+    width: 100%;
+}
