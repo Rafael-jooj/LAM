@@ -1,0 +1,10 @@
+.icon-itens{
+    display: flex;
+    justify-content: center;
+}
+.icon-iten{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 70px;
+}

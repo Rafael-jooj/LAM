@@ -1,9 +1,9 @@
 .capa{
-    height: 100vh;
-    background-image: url("../../../public/images/equipe.jpg");
+    height: 70vh;
+    background-image: url("../../../public/images/capa-lam.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: 0.95;
+    background-position: top;
 }
 .equipe{
     margin-top: 30px;

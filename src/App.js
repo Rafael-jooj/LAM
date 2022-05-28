@@ -1,10 +1,14 @@
 import React from 'react';
-import Home from './pages/home';
+import Navigator from './components/Navbar';
+import Rotas from './routes';
+import Footer from './components/Footer';
 
 function App() {
   return (
     <div className="App">
-      <Home/>
+      <Navigator/>
+      <Rotas/>
+      <Footer/>
     </div>
   );
 }

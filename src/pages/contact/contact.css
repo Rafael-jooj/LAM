@@ -1,0 +1,39 @@
+.contact{
+    height: auto;
+    background-image: url("../../../public/images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+}
+.contact-title{
+    text-align: center;
+    padding-top: 30px;
+}
+.contact-faces{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.contact-icons{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.contact-find{
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.contact-find p{
+    border-top: solid 2px;
+    border-color: #c4c4c4;
+    width: 150px;
+}
+.contact-map{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}

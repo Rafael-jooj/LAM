@@ -1,0 +1,17 @@
+.team-back{
+    height: auto;
+    background-image: url('../../../public/images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 20px;
+}
+.tean{
+    width: 100%;
+}
+.linha1{
+    margin-top: 30px;
+}
+.linha3{
+    padding-bottom: 100px;
+}
