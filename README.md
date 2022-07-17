@@ -1,6 +1,6 @@
 # Site LAM - UFT
 
-### Site desenvolvido para o grupo de pesquisas do Laboratório de Análises Moleculares LAM - UFT
+### Site desenvolvido em ReactJS para o grupo de pesquisas do Laboratório de Análises Moleculares LAM - UFT
 
 Link para o site:
 
